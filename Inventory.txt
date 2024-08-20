@@ -1,0 +1,100 @@
+1,5 star,5,100
+2,Milky Bar,10,200
+3,Cake,300,150
+4,Candy,1,800
+5,Chips,50,500
+6,Soda,2,300
+7,Biscuit,30,250
+8,Juice,20,450
+9,Chocolate,5,120
+10,Cookie,15,350
+11,Ice Cream,25,400
+12,Muffin,3,150
+13,Crackers,100,700
+14,Pastry,45,600
+15,Lollipop,1,1000
+16,Brownie,150,50
+17,Pie,10,900
+18,Gum,2,800
+19,Pudding,40,300
+20,Cheesecake,60,200
+21,Doughnut,70,500
+22,Fudge,20,750
+23,Marshmallow,35,900
+24,Popcorn,150,100
+25,Toffee,55,600
+26,Gelato,4,700
+27,Caramel,5,1000
+28,Taffy,2,300
+29,Bagel,10,450
+30,Tart,8,600
+31,Wafer,12,500
+32,Pretzel,20,150
+33,Croissant,90,800
+34,Babka,30,350
+35,Eclair,50,400
+36,Macaron,1,1200
+37,Scone,3,750
+38,Truffle,200,100
+39,Brulee,25,650
+40,Pecan Pie,300,50
+41,Tiramisu,150,900
+42,Fruitcake,10,500
+43,Sundae,5,1200
+44,Meringue,35,700
+45,Shortbread,75,800
+46,Parfait,60,250
+47,Churro,20,350
+48,Souffle,100,450
+49,Granola Bar,12,550
+50,Cobbler,5,1100
+51,Cream Puff,8,600
+52,Donut,30,300
+53,Popsicle,15,900
+54,Strudel,4,1000
+55,Panettone,7,750
+56,Mochi,20,850
+57,Biscotti,45,300
+58,Sponge Cake,80,400
+59,Lemon Bar,25,500
+60,Profiterole,100,200
+61,Tartlet,6,1200
+62,Angel Cake,40,650
+63,Blondie,90,800
+64,Rice Pudding,30,100
+65,Custard,70,700
+66,Egg Tart,5,1100
+67,Funnel Cake,50,600
+68,Turkish Delight,15,1200
+69,Baklava,20,300
+70,Swiss Roll,55,800
+71,Florentine,1,900
+72,Chiffon Cake,12,1000
+73,Crepe,5,750
+74,Zabaglione,10,450
+75,Snowball,2,550
+76,Panforte,4,1200
+77,Flan,8,300
+78,Marzipan,30,1000
+79,Cannoli,15,650
+80,Rugelach,5,800
+81,Mousse,25,150
+82,Semifreddo,35,400
+83,Gingersnap,50,500
+84,CrÃ¨me Caramel,70,200
+85,Fritters,60,1200
+86,Black Forest Cake,40,700
+87,Pavlova,1,900
+88,Panna Cotta,12,450
+89,CrÃ¨me BrÃ»lÃ©e,2,750
+90,Fudge Brownie,20,500
+91,Coconut Macaroon,15,600
+92,Boston Cream Pie,25,100
+93,Linzer Torte,30,800
+94,Clafoutis,40,700
+95,Rice Krispie Treat,5,900
+96,Tarte Tatin,10,1200
+97,Stollen,20,300
+98,Speculoos,8,450
+99,Opera Cake,1,1100
+100,Banana Bread,3,500
